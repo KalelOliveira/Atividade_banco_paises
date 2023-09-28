@@ -12,14 +12,16 @@ select cidade from tabela_paises where pais = 'Brazil';
 ```
 ## Resultado esperado:
 
-![image](https://github.com/KalelOliveira/Atividade_banco_paises/assets/116455659/84a9be9b-3295-42b0-a04f-b27ee675324b)
+![image](https://github.com/KalelOliveira/Atividade_banco_paises/assets/116455659/ffebf65c-ca2f-4878-9fa7-0e3cb6eeda98)
+
 
 ## Q3 
 ```sql
 select cidade from tabela_paises where regiao = 'Ceará';
 ```
 ## Resultado esperado:
-![image](https://github.com/KalelOliveira/Atividade_banco_paises/assets/116455659/e0003157-24c7-43aa-82f1-076f971300c7)
+![image](https://github.com/KalelOliveira/Atividade_banco_paises/assets/116455659/b290568e-7834-406f-b361-5ed8b0bec503)
+
 
 ## Q4
 ```sql
